@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="myProfile">MY PROFILE</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="track_android">Track : Android</string>
+    <string name="country_ghana">Country : Ghana</string>
+    <string name="email_sparrowpaul2_gmail_com">Email : sparrowpaul2@gmail.com</string>
+    <string name="phone_number_233542686544">Phone Number : +233542686544</string>
+    <string name="slack_username_sparrowpaul">Slack Username : @SparrowPaul</string>
+    <string name="agbadi_paul">Agbadi Paul</string>
+</resources>
